@@ -1,5 +1,5 @@
 # Simple Accordion Library
-Tiny Collaspe and Close Javascript Library
+Tiny accordion Javascript Library
 
 ## Features
 - Simple and tiny
